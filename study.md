@@ -16,7 +16,11 @@ Submit detailed answers to these in this file via a pull request.
 
 ### A wireframe of what your game project will look like.
 
+![Mobile wireframes](https://github.com/rebekahheacock/game-project-scope-study/blob/response/mobile_00.jpeg)
+
 ![Mobile wireframes](https://github.com/rebekahheacock/game-project-scope-study/blob/response/mobile_01.jpeg)
+
+![Large screen wireframes](https://github.com/rebekahheacock/game-project-scope-study/blob/response/largescreen_00.jpeg)
 
 ### The data structure you plan to use.
 
