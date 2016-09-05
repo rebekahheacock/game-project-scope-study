@@ -34,6 +34,20 @@ Submit detailed answers to these in this file via a pull request.
 | player_x |
 | player_o |  
 
+| Chat (tbd) |
+| --- |
+| id |
+| player_x |
+| player_o |
+
+| Message (tbd) |
+| --- |
+| id |
+| chat_id |
+| author |
+| content |
+
+
 ### How you will take the markup of the game board and represent it in JS
 
 
