@@ -50,6 +50,7 @@ Submit detailed answers to these in this file via a pull request.
 
 ### How you will take the markup of the game board and represent it in JS
 
+The game board will be a grid of divs (or possibly spans?). Each one will have an id that corresponds to its position in the game's `cells` array.
 
 ### How you plan to approach this project.
 I'd like to put together a very simple page that contains all of the necessary components (sign up/log in forms, log out button, game board, reset/new game button, place to display wins/losses). From there, I can implement the basic authentication/game play functionality, then go back in and start refining the aesthetic and working on extra features.
@@ -69,6 +70,8 @@ Following the examples in class so far, I plan to separate my JS functionality i
 
 ### What creative spin will you add to your project.
 I've been looking at mobile game apps for design inspiration (particularly those designed by [Dots.co](https://www.dots.co/). Tic-Tac-Toe is a pretty simple game at its core, and I'd like to keep the design fairly streamlined/minimalist to match. 
+
+I plan to design from a mobile-first perspective (which should be fairly easy, since we're using Bootstrap). I made the mobile wireframes first, and then built the larger screen wireframes based on those.
 
 In terms of functionality, I'm considering offering two or three color scheme options and letting players choose one (and maybe storing this in their localStorage so it persists across sessions).
 
